@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Cloud Azure, Python and Front end
 - 😊 Pronouns: she / her
 
-<div align="center">
+<div>
   <a href="https://github.com/yumedakuzaku">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yumedakuzaku&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumedakuzaku&layout=compact&langs_count=7&theme=dracula"/>
