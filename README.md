@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Data Analytics
-- 🌱 I’m currently learning Cloud Azure, Python and Front End
+- 🌱 I’m currently learning Cloud Azure, Python and web dev.
 - 😊 Pronouns: she / her
 
 <div>
