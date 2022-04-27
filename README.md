@@ -1,8 +1,8 @@
 ### Hi there! I'm **Yume Dakuzaku**! 👋
 
 
-- 🔭 I’m currently working on Data Analytics
-- 🌱 I’m currently learning Cloud Azure, Python and web dev.
+- 🔭 I work with Business Analytics
+- 🌱 I’m certified: Microsoft Cloud Azure - AZ900 and learning Python and Web Dev.
 - 😊 Pronouns: she / her
 
 <div>
