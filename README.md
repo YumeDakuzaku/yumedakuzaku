@@ -15,7 +15,7 @@
   
   <img align="center" alt="Yume-Numpy" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
   <img align="center" alt="Yume-Jupyter" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-   <img align="center" alt="Yume-Django" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
+   <img align="center" alt="Yume-Django" height="30" width="48" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img align="center" alt="Yume-PostegreSQL" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Yume-Azure" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" alt="Yume-SQLServer" height="30" width="48" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
