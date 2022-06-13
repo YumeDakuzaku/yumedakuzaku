@@ -2,7 +2,7 @@
 
 
 - 🔭 I work with Data (Business Intelligence & Analytics)
-- 🌱 I’m certified: Microsoft Cloud Azure - AZ900 and Python
+- 🌱 I’m certified: Microsoft Cloud Azure, Python and currently studying Javascript.
 - 😊 Pronouns: she / her
 
 <div>
