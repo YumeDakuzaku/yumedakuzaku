@@ -5,6 +5,16 @@
 - 🌱 I’m certified: Microsoft Cloud Azure
 - 😊 Pronouns: she / her
 
+          Skills:
+          
+           - Data Manipulation: SQL Server and PostgreSQL (Queries, Jobs and Builds);
+          - IBM DataStage, IBM Data Manager, IBM Rational Asset Manager, IBM Rational Jazz Team Server;
+          - Azure Cloud and Power BI certified;
+          - Excel (power query, power pivot, macros VBA);
+          - Python (numpy, pandas, Scikit-learn, Matplotlib, Seaborn, Plotly, PyScript, etc) ;
+          - Django (framework), HTML, CSS, Javascript, Git;
+          - Qlikview, ERP SAP;
+          - CRM Salesforce Admin;
 <div>
   <a href="https://github.com/yumedakuzaku">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yumedakuzaku&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
