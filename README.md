@@ -7,7 +7,7 @@
 
           Skills:
           
-           - Data Manipulation: SQL Server and PostgreSQL (Queries, Jobs and Builds);
+          - Data Manipulation: SQL Server and PostgreSQL (Queries, Jobs and Builds);
           - IBM DataStage, IBM Data Manager, IBM Rational Asset Manager, IBM Rational Jazz Team Server;
           - Azure Cloud and Power BI certified;
           - Excel (power query, power pivot, macros VBA);
