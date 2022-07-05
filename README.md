@@ -15,11 +15,6 @@
           - Django (framework), HTML, CSS, Javascript, Git;
           - Qlikview, ERP SAP;
           - CRM Salesforce Admin;
-<div>
-  <a href="https://github.com/yumedakuzaku">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yumedakuzaku&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumedakuzaku&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
 <div style="display: inline_block"><br>
   
