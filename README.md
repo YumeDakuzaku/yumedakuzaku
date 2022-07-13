@@ -6,7 +6,6 @@
 - 😊 Pronouns: she / her
 
           Skills:
-          - Game Developer Metaverso (Studying)
           - Data Manipulation: SQL Server and PostgreSQL (Queries, Jobs and Builds);
           - IBM DataStage, IBM Data Manager, IBM Rational Asset Manager, IBM Rational Jazz Team Server;
           - Azure Cloud and Power BI certified;
