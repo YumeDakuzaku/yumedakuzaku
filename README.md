@@ -1,7 +1,7 @@
 ### Hi there! I'm **Yume Dakuzaku**! 👋
 
 
-- 🔭 I am: Business Intelligence | Data Analytics | Data Developer | Engineer | Developer IT
+- 🔭 I am: Business Intelligence | Data Analytics | Python Developer | Engineer | Developer IT
 - 🌱 I’m certified: Microsoft Cloud Azure
 - 😊 Pronouns: she / her
 
