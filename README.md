@@ -1,7 +1,7 @@
 ### Hi there! I'm **Yume Dakuzaku**! 👋
 
 
-- 🔭 I am: Developer and Engineer (Business Intelligence & Data Analytics)
+- 🔭 I am: Developer and Engineer
 - 🌱 I’m certified: Microsoft
 - 😊 Pronouns: she / her
 
